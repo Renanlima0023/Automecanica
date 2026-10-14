@@ -1,0 +1,27 @@
+oficina/
+├── backend/
+│   ├── server.js
+│   ├── package.json
+│   ├── database.js
+│   ├── routes/
+│   │   ├── auth.js
+│   │   ├── clientes.js
+│   │   ├── produtos.js
+│   │   ├── orcamentos.js
+│   │   ├── vendas.js
+│   │   ├── servicos.js
+│   │   ├── estoque.js
+│   │   ├── usuarios.js
+│   │   └── config.js
+│   ├── oficina.db  (criado automaticamente)
+│   └── uploads/    (logos)
+├── frontend/
+│   ├── index.html
+│   ├── manifest.json
+│   ├── sw.js
+│   └── icones/
+│       ├── icon-192.png
+│       └── icon-512.png
+├── iniciar-windows.bat
+├── iniciar-linux-mac.sh
+└── LEIA-ME.md
